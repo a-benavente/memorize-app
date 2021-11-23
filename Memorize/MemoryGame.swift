@@ -2,7 +2,7 @@
 //  MemoryGame.swift
 //  Memorize
 //
-//  Created by amanduh on 9/12/21.
+//  Created by amanda on 9/12/21.
 //
 
 import Foundation

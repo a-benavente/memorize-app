@@ -2,7 +2,7 @@
 //  MemorizeApp.swift
 //  Memorize
 //
-//  Created by amanduh on 9/4/21.
+//  Created by amanda on 9/4/21.
 //
 
 import SwiftUI
